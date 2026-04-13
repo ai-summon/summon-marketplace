@@ -1,9 +1,9 @@
 # summon-marketplace
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Marketplace](https://img.shields.io/badge/Marketplace-Active-brightgreen)](https://github.com/ismaelJimenez/summon-marketplace)
+[![Marketplace](https://img.shields.io/badge/Marketplace-Active-brightgreen)](https://github.com/ai-summon/summon-marketplace)
 
-🚀 A curated marketplace of developer utility plugins for [Claude Code](https://code.claude.com/) and [GitHub Copilot CLI](https://docs.github.com/en/copilot/how-tos/copilot-cli).
+🚀 A curated marketplace of utility plugins for [Claude Code](https://code.claude.com/) and [GitHub Copilot CLI](https://docs.github.com/en/copilot/how-tos/copilot-cli).
 
 
 ## ✨ Overview
@@ -30,13 +30,13 @@
 
 ### Claude Code
 ```bash
-claude plugin marketplace add ismaelJimenez/summon-marketplace
+claude plugin marketplace add ai-summon/summon-marketplace
 claude plugin install wingman@summon-marketplace
 ```
 
 ### GitHub Copilot CLI
 ```bash
-copilot plugin marketplace add ismaelJimenez/summon-marketplace
+copilot plugin marketplace add ai-summon/summon-marketplace
 copilot plugin install wingman@summon-marketplace
 ```
 
@@ -48,7 +48,7 @@ copilot plugin install wingman@summon-marketplace
 #### Step 1: Add the marketplace
 
 ```bash
-claude plugin marketplace add ismaelJimenez/summon-marketplace
+claude plugin marketplace add ai-summon/summon-marketplace
 ```
 
 #### Step 2: Install a plugin
@@ -62,7 +62,7 @@ claude plugin install wingman@summon-marketplace
 #### Step 1: Add the marketplace
 
 ```bash
-copilot plugin marketplace add ismaelJimenez/summon-marketplace
+copilot plugin marketplace add ai-summon/summon-marketplace
 ```
 
 #### Step 2: Install a plugin
@@ -92,7 +92,7 @@ For more details, see [GitHub Copilot CLI plugins documentation](https://docs.gi
    ```json
    {
      "chat.plugins.marketplaces": [
-       "ismaelJimenez/summon-marketplace"
+       "ai-summon/summon-marketplace"
      ]
    }
    ```
@@ -124,7 +124,7 @@ claude plugin marketplace update summon-marketplace
 
 # Copilot CLI (re-add to refresh)
 copilot plugin marketplace remove summon-marketplace
-copilot plugin marketplace add ismaelJimenez/summon-marketplace
+copilot plugin marketplace add ai-summon/summon-marketplace
 ```
 
 ### Update & Remove
