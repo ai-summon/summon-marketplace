@@ -1,0 +1,36 @@
+{
+  "name": "summon-marketplace",
+  "owner": {
+    "name": "Summon"
+  },
+  "metadata": {
+    "description": "A curated marketplace of utility plugins for Claude Code",
+    "version": "0.1.2"
+  },
+  "plugins": [
+    {
+      "name": "wingman",
+      "source": {
+        "source": "github",
+        "repo": "ismaelJimenez/wingman"
+      },
+      "description": "A utility suite for developing new features with structured workflows"
+    },
+    {
+      "name": "superpowers",
+      "source": {
+        "source": "github",
+        "repo": "obra/superpowers"
+      },
+      "description": "A complete software development workflow for coding agents, built on composable skills covering TDD, brainstorming, planning, subagent-driven development, debugging, and code review"
+    },
+    {
+      "name": "spec-kit",
+      "source": {
+        "source": "github",
+        "repo": "speckit-community/cc-spec-kit"
+      },
+      "description": "Specification-driven development workflow for Claude Code. Provides skills for feature specification, planning, task generation, implementation, and analysis."
+    }
+  ]
+}
