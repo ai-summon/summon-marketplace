@@ -25,7 +25,7 @@
       "description": "A complete software development workflow for coding agents, built on composable skills covering TDD, brainstorming, planning, subagent-driven development, debugging, and code review"
     },
     {
-      "name": "spec-kit",
+      "name": "speckit",
       "source": {
         "source": "github",
         "repo": "speckit-community/cc-spec-kit"
