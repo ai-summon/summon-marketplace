@@ -17,6 +17,7 @@
 | [**wingman**](https://github.com/ismaelJimenez/wingman) | Structured workflows for developing new features with brainstorming, ideation, and decision-making |
 | [**superpowers**](https://github.com/obra/superpowers) | Complete software development workflow covering TDD, planning, debugging, code review, and subagent-driven development |
 | [**spec-kit**](https://github.com/speckit-community/cc-spec-kit) | Specification-driven development workflow with feature specification, planning, task generation, implementation, and analysis |
+| [**brainstorm**](https://github.com/ismaelJimenez/brainstorm) | A collaborative brainstorming skill that turns ideas into clarity through structured dialogue |
 
 ### ⚡ Key Features
 

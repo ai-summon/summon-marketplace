@@ -31,6 +31,14 @@
         "repo": "speckit-community/cc-spec-kit"
       },
       "description": "Specification-driven development workflow for Claude Code. Provides skills for feature specification, planning, task generation, implementation, and analysis."
+    },
+    {
+      "name": "brainstorm",
+      "source": {
+        "source": "github",
+        "repo": "ismaelJimenez/brainstorm"
+      },
+      "description": "A collaborative brainstorming skill that turns ideas into clarity through structured dialogue."
     }
   ]
 }
