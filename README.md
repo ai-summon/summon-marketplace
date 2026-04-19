@@ -18,7 +18,7 @@
 | [**superpowers**](https://github.com/obra/superpowers) | Complete software development workflow covering TDD, planning, debugging, code review, and subagent-driven development |
 | [**spec-kit**](https://github.com/speckit-community/cc-spec-kit) | Specification-driven development workflow with feature specification, planning, task generation, implementation, and analysis |
 | [**brainstorm**](https://github.com/ismaelJimenez/brainstorm) | A collaborative brainstorming skill that turns ideas into clarity through structured dialogue |
-| [**mp-skills**](https://github.com/ismaelJimenez/mp-skills) | Matt Pocock's agent skills collection — TDD, code review, PRD generation, and more — auto-synced from mattpocock/skills |
+| [**mp-skills**](https://github.com/ismaelJimenez/mp-skills) | Matt Pocock's agent skills collection — TDD, code review, PRD generation, and more |
 
 ### ⚡ Key Features
 
