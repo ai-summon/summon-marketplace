@@ -47,6 +47,14 @@
         "repo": "ismaelJimenez/mp-skills"
       },
       "description": "Matt Pocock's agent skills collection — TDD, code review, PRD generation, and more — auto-synced from mattpocock/skills"
+    },
+    {
+      "name": "skill-creator-copilot",
+      "source": {
+        "source": "github",
+        "repo": "ismaelJimenez/skill-creator-copilot"
+      },
+      "description": "Create new agent skills with proper structure, progressive disclosure, and bundled resources — adapted from Anthropic's skill-creator for Copilot CLI"
     }
   ]
 }

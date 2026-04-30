@@ -19,6 +19,7 @@
 | [**spec-kit**](https://github.com/speckit-community/cc-spec-kit) | Specification-driven development workflow with feature specification, planning, task generation, implementation, and analysis |
 | [**brainstorm**](https://github.com/ismaelJimenez/brainstorm) | A collaborative brainstorming skill that turns ideas into clarity through structured dialogue |
 | [**mp-skills**](https://github.com/ismaelJimenez/mp-skills) | Matt Pocock's agent skills collection — TDD, code review, PRD generation, and more |
+| [**skill-creator-copilot**](https://github.com/ismaelJimenez/skill-creator-copilot) | Create new agent skills with proper structure, progressive disclosure, and bundled resources — adapted from Anthropic's skill-creator for Copilot CLI |
 
 ### ⚡ Key Features
 
