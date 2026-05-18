@@ -41,12 +41,12 @@
       "description": "A collaborative brainstorming skill that turns ideas into clarity through structured dialogue."
     },
     {
-      "name": "mp-skills",
+      "name": "mattpocock-skills",
       "source": {
         "source": "github",
-        "repo": "ismaelJimenez/mp-skills"
+        "repo": "ismaelJimenez/mattpocock-skills"
       },
-      "description": "Matt Pocock's agent skills collection — TDD, code review, PRD generation, and more — auto-synced from mattpocock/skills"
+      "description": "Matt Pocock's agent skills collection"
     },
     {
       "name": "skill-creator-copilot",
